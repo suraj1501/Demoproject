@@ -11,8 +11,10 @@ public class Logintest {
 	  System.setProperty("webdriver.gecko.driver", "C:\\Program Files\\Java\\selenium\\drivers\\geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
 
-	  
-	  driver.get("https://www.google.com/");	  
+	  //hgjgj
+		
+	  driver.get("https://www.google.com/");	
+	  driver.get("https://www.google.com/");	
 	  driver.quit();
   }
 }
